@@ -40,6 +40,9 @@ build
 Thumbs.db
 .DS_Store
 
+# GitHub Pages deployment
+.github-pages
+
 # Package manager lock files (optional - some prefer to commit these)
 # Uncomment if you don't want to commit lock files
 # package-lock.json
