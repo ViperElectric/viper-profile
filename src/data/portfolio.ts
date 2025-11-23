@@ -58,6 +58,8 @@ export const experience: Experience[] = [
     duration: 'Feb 2022 - Present (3 years 10 months)',
     responsibilities: [
       'Developed mobile applications using C#, .NET MAUI, Xamarin, and Swift/SwiftUI for radiation detection platforms',
+      'Developed C++ embedded applications for handheld radiation detection/identification products',
+      'Ongoing QT application support running on embedded detection products'
       'Built applications for data transfer over Bluetooth and tethered connections to embedded handheld devices',
       'Created desktop applications in .NET and Electron frameworks as product support tools',
       'Developed JavaScript and Vue 3 SPA web applications for ongoing projects',
