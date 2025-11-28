@@ -83,7 +83,7 @@ export const experience: Experience[] = [
   {
     title: 'Electronics Technician / IT Support',
     company: 'Teledyne FLIR',
-    location: 'Knoxville, Tennessee',
+    location: 'Oak Ridge, Tennessee',
     duration: 'Jun 2009 - Apr 2016 (6 years 11 months)',
     responsibilities: [
       'Provided local IT support for corporate infrastructure and managed off-network systems',
